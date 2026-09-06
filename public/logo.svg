@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 430 92">
+  <circle cx="18" cy="38" r="8" fill="#F5A31A"/>
+  <text x="32" y="52" fill="#1A73C4" font-family="system-ui,sans-serif" font-size="44" font-weight="800" letter-spacing="-1.5">.md</text>
+  <rect x="10" y="64" width="92" height="8" rx="1" fill="#0B4F8C"/>
+  <rect x="102" y="64" width="42" height="8" rx="1" fill="#F5A31A"/>
+  <text x="160" y="50" fill="currentColor" font-family="system-ui,sans-serif" font-size="44" font-weight="700" letter-spacing="-1">craft</text>
+  <text x="162" y="78" fill="currentColor" opacity="0.72" font-family="system-ui,sans-serif" font-size="11" font-weight="700" letter-spacing="3.2">ELEVATING MARKDOWN</text>
+</svg>
